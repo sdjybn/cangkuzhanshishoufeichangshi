@@ -2,8 +2,8 @@
 
 欢迎使用“蓝图式键鼠控制器”，一款强大的自动化键鼠操作工作流构建工具。
 
-![软件截图](https-placeholder.png)
-*(建议：请在此处替换为您软件的真实截图，将真实图片文件上传到Gitee/GitHub仓库后，替换上面的链接。一张清晰的截图能极大提高审核通过率)*
+![软件截图]([https-placeholder.png](https://github.com/sdjybn/cangkuzhanshishoufeichangshi/blob/main/%E8%BD%AF%E4%BB%B6%E6%BC%94%E7%A4%BA1.png))
+
 
 ---
 
