@@ -2,7 +2,7 @@
 
 欢迎使用“蓝图式键鼠控制器”，一款强大的自动化键鼠操作工作流构建工具。
 
-![软件截图]([https-placeholder.png](https://github.com/sdjybn/cangkuzhanshishoufeichangshi/blob/main/%E8%BD%AF%E4%BB%B6%E6%BC%94%E7%A4%BA1.png))
+![软件截图](软件演示1.png))
 
 
 ---
